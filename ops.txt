@@ -1,1 +1,2 @@
-open source programming class homework
+oPEN sOURCE pROGRAMMING cLASS hOMEWORK
+//capitlized small letters except for the first of each word
