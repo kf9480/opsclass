@@ -1,2 +1,6 @@
+
 Open Source Programming Class Homework
 //capitalized the first small letter of each word
+oPEN sOURCE pROGRAMMING cLASS hOMEWORK
+//capitlized small letters except for the first of each word
+
